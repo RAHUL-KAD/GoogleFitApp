@@ -18,9 +18,8 @@ Using **Simple Imputer** module from scikit-learn library I handeled missing val
     a. Number of Units = 60
   
     b. Activation function = Rectified Linear Unit(Relu)
-    e
 
-    c. Regularizer lambda value = 0.001
+    c. Regularizer parameter lambda = 0.001
     
     d. Optimizer = Adamax
     
