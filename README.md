@@ -66,6 +66,10 @@ On training dataset I got mean absoulte percenatge erroe as 0.79% but when I eva
 I had limited number of training datset so I coulden't use that. I tried Drop out but it wasn't that much effective and data aumentation is possible on image or video dataset so I tried **Regularization** and I got mean absolute percentage error as 50.67%
 
 
+## 3. Model Deployment:
+
+To create a wep app and deploy I used **streamlit** library. 
+
 
 
 
