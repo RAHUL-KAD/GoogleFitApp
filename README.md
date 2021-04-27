@@ -5,6 +5,10 @@
 **Web App link**
 ![Google Fit web app](https://share.streamlit.io/rahul-kad/googlefitapp/main)
 
+### Preview
+
+![fit](https://user-images.githubusercontent.com/63397654/116190887-0861a400-a749-11eb-8b9b-9517367c2291.gif)
+
 ## 1. Problem Statement: 
 A few months back I started using **Google Fit app.** This App counts your daily walking distnce-steps, running distance-steps, cycling distance-steps.
 Your **Heart points**, **calories** and many more things. So I downloded my google fit dataset from **takeout.google.com** website.
