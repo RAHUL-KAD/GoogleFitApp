@@ -34,11 +34,22 @@ Using **Simple Imputer** module from scikit-learn library I handeled missing val
    
 **Loss:**
 
-At epochs 1-
+At epochs 1- 
+    
+    a. mean squared error = 3183943.2643
+    
+    b. Mean absolute error = 1759.6287
+    
+    c. Mean absolute percentage error = 95.6408
+    
 
-    a. mean squared error = At epochs 200 loss is 457.76
+At epochs 200-
+
+    a. mean squared error = 457.76
     
     b. Mean absolute error = 14. 70
+    
+    c. Mean absolute percentage error = 0.79
 
 
 
