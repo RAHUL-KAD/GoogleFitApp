@@ -13,8 +13,8 @@ I used **Artificial Neural Network** to train my model.
 To train my model I downloded additional dataset from kaggle. After that I dropped unncessary columns. 
 Using **Simple Imputer** module from scikit-learn library I handeled missing values, after that I had to use **Stander Scaler** to scale column values.
 
-Parameters:
+**Parameters:**
 
-  a. Number of Units = 60
+    a. Number of Units = 60
   
-  b. Activation = Rectified Linear Unit(Relu)
+    b. Activation = Rectified Linear Unit(Relu)
