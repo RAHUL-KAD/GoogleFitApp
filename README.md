@@ -71,6 +71,14 @@ I had limited number of training datset so I coulden't use that. I tried Drop ou
 To create a wep app and deploy I used **streamlit** library. 
 
 
+## 4. Credit:
+
+I would like to give creadit to google to develop such an amazing fitness app, to kaggle for providing necessasy dataset. 
+
+I would like to thank to ![So you want to be a data scientist?](https://www.youtube.com/channel/UCpNUYWW0kiqyh0j5Qy3aU7w) youtube channel to provide such a good video explanation about how to create stramlit webapp.
+
+And to my friend ![Prasant Kumar](https://www.linkedin.com/in/prasant-kumar-a510bb192/) to help me with my project.
+
 
 
 
