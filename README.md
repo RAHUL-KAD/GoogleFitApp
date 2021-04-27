@@ -14,5 +14,7 @@ To train my model I downloded additional dataset from kaggle. After that I dropp
 Using **Simple Imputer** module from scikit-learn library I handeled missing values, after that I had to use **Stander Scaler** to scale column values.
 
 Parameters:
+
   a. Number of Units = 60
+  
   b. Activation = Rectified Linear Unit(Relu)
