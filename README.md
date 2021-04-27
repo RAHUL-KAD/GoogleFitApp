@@ -54,6 +54,29 @@ At epochs 200-
     c. Mean absolute percentage error = 0.79
 
 
+**Why did I used regularization?**
+
+On training dataset I got mean absoulte percenatge erroe as 0.79 but when I evaluted my model on testing dataset I got MAPE as 52.46. So that means my model was having high variance, to reduce the high variance we can perform following steps:
+
+1. Add more training datset
+2. Regularization
+3. Drop out 
+4. Data Augmentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
