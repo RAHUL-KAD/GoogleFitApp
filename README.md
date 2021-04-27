@@ -32,7 +32,7 @@ Using **Simple Imputer** module from scikit-learn library I handeled missing val
     h. No of epochs = 200
     
    
-** Loss:**
+**Loss:**
 
 At epochs 1-
 
