@@ -17,4 +17,18 @@ Using **Simple Imputer** module from scikit-learn library I handeled missing val
 
     a. Number of Units = 60
   
-    b. Activation = Rectified Linear Unit(Relu)
+    b. Activation function = Rectified Linear Unit(Relu)
+    
+    c. Regularizer lambda value = 0.001
+    
+    d. Optimizer = Adamax
+    
+    e. Loss = mean_squared_error
+    
+    f. metrics = mean absoulte error, mean squared error, mean absoulte percentage error.
+    
+    g. batch size = 1
+    
+    h. No of epochs = 200
+    
+   
