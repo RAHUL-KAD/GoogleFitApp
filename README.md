@@ -25,10 +25,22 @@ Using **Simple Imputer** module from scikit-learn library I handeled missing val
     
     e. Loss = mean_squared_error
     
-    f. metrics = mean absoulte error, mean squared error, mean absoulte percentage error.
+    f. metrics = mean absoulte error, mean absoulte percentage error.
     
     g. batch size = 1
     
     h. No of epochs = 200
     
    
+** Loss:**
+
+At epochs 1-
+
+    a. mean squared error = At epochs 200 loss is 457.76
+    
+    b. Mean absolute error = 14. 70
+
+
+
+
+
