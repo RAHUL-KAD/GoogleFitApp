@@ -2,8 +2,8 @@
 
 **This repo contains the project which predicts how much calories you burn.**
 
-**Web App link**
-![](https://share.streamlit.io/rahul-kad/googlefitapp/main)
+**Web App LINK**
+![APP](https://share.streamlit.io/rahul-kad/googlefitapp/main)
 
 ### Preview
 
